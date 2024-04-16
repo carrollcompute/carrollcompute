@@ -7,7 +7,6 @@ I operate a business specializing in providing developer skills and solutions to
 ## Services I Offer :rocket:
 
 - Full-stack web development :globe_with_meridians:
-- Mobile app development :iphone:
 - Custom software solutions :computer:
 - API integrations :link:
 - Code reviews and optimizations :mag_right:
@@ -19,8 +18,7 @@ I have a wide range of knowledge in technologies, including:
 - Front-end: HTML, CSS, JavaScript, React, Angular
 - Back-end: Node.js, Python, Ruby, PHP
 - Databases: MySQL, PostgreSQL, MongoDB
-- Mobile: iOS, Android, React Native
-- Cloud: AWS, Azure, Google Cloud
+- Cloud: AWS, Google Cloud
 
 ## Let's Collaborate! :handshake:
 
